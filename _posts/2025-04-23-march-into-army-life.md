@@ -17,9 +17,9 @@ And so began my gloriously unpredictable march from civvie chaos to cantonment c
 
 My travel bucket list quietly stepped aside for unit locations I couldn't find on any tourist map. Glam weekends turned into adventure missions like chasing down coriander in a desert station or surviving an officers' wives' meet in 46 degrees without smudging my eyeliner, that's tactical makeup deployment.
 
-By the time I blinked, I had swapped sleek trolleys for dented trunks and was rolling out snacks for “unexpected guests” with the calm precision of a commando.
+By the time I blinked, I had swapped sleek trolleys for dented trunks and was rolling out snacks for "unexpected guests" with the calm precision of a commando.
 
-I've been many things — travel executive, school principal, Asia International crown holder, but nothing trains you better in grace under pressure than organising a dinner for 30… with no power, limited gas and a smile that says “this was totally planned.”
+I've been many things — travel executive, school principal, Asia International crown holder, but nothing trains you better in grace under pressure than organising a dinner for 30… with no power, limited gas and a smile that says "this was totally planned."
 
 Life in olive green wasn't always predictable but it was always unforgettable . With it's surprise farewells, midnight packings, friendships that bloomed in borrowed crockery and laughter that echoed across mess lawns.
 
