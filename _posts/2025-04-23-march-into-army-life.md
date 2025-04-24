@@ -21,7 +21,7 @@ By the time I blinked, I had swapped sleek trolleys for dented trunks and was ro
 
 I've been many things — travel executive, school principal, Asia International crown holder, but nothing trains you better in grace under pressure than organising a dinner for 30… with no power, limited gas and a smile that says "this was totally planned."
 
-Life in olive green wasn't always predictable but it was always unforgettable . With it's surprise farewells, midnight packings, friendships that bloomed in borrowed crockery and laughter that echoed across mess lawns.
+Life in olive green wasn't always predictable but it was always unforgettable. With it's surprise farewells, midnight packings, friendships that bloomed in borrowed crockery and laughter that echoed across mess lawns.
 
 I didn't just adapt. I evolved.
 
