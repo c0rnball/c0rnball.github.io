@@ -16,7 +16,7 @@ timezone: Asia/Kolkata
 
 title: Jyoti Rupaal # the main title
 
-tagline: Welcome to my blog # it will display as the subtitle
+tagline: From heels to halt commands - tales steeped in tradition, chaos and a whole lot of chai. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -98,7 +98,7 @@ theme_mode: light # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: c0rnball/c0rnball.github.io
+    repo_id: R_kgDOOeKLuw
+    category: General
+    category_id: DIC_kwDOOeKLu84CpZci
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'

@@ -1,8 +1,11 @@
 ---
 title: "Civvie to Cantonment: My Sweet March into Army Life"
 date: 2025-04-23 10:10:10
-categories: [Army Life]
-tags: [army life, experience]
+categories: [Marching Memories - Posts About Army Life]
+tags: [army life, stories, wifehood]
+image:
+    path: /assets/img/covers/c2cartwork.jpeg
+    alt: c2cartwork
 ---
 
 Let's get one thing straight. I didn't join the Army. I married it.
@@ -33,4 +36,4 @@ So unfasten that metaphorical trunk.
 
 Let's air out the memories, laugh over the messes and raise a toast with chai, of course,to the grand green tinted madness that shaped me.
 
-*Because behind every Army wife is a woman who can charm a crowd, command a kitchen and conquer cantonment chaos, all before her second cup of tea.*
+**Because behind every Army wife is a woman who can charm a crowd, command a kitchen and conquer cantonment chaos, all before her second cup of tea.**
