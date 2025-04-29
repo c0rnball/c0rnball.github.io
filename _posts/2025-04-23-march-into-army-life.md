@@ -4,8 +4,8 @@ date: 2025-04-23 10:10:10
 categories: [Marching Memories - Posts About Army Life]
 tags: [army life, stories, wifehood]
 image:
-    path: /assets/img/covers/c2cartwork.png
-    alt: c2cartwork
+    path: /assets/img/covers/civvie-to-cantonment.png
+    alt: Civvie to Cantonment
 ---
 
 Let's get one thing straight. I didn't join the Army. I married it.
