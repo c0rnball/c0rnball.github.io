@@ -1,7 +1,7 @@
 ---
 title: "The Man in the Mango Tree"
 date: 2025-07-29 09:18:22
-categories: [Fauji life & Laughter]
+categories: [Fauji Life & Laughter]
 tags: [cantonment tales, fauji wives, mango mystery, summer drama]
 image:
     path: /assets/img/covers/mango-tree.jpeg
