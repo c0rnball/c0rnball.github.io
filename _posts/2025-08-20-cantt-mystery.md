@@ -12,7 +12,7 @@ Army life is not just about parades, mess nights and picture perfect lawns. Behi
 
 I was lucky to have lived in a few of these bungalows during different postings - lucky, because they were charming, spacious and full of character. But also because each of them left me with memories that even today raise the hair on the back of my neck.
 
-Let me share just a few of the many incidents that remain etched in my mind. And in every one of them, the one constant was our unseen protector. We always called our sahayak daju, which in Nepali means elder brother - a bond that goes far beyond duty. Torch in one hand, khukhri in the other, he stood between us and the unknown.
+Let me share just a few of the many incidents that remain etched in my mind. And in every one of them, the one constant was our unseen protector.. our Gorkha buddy. We always addressed our Gorkha buddy as 'daju', which in Nepali means elder brother - a bond that goes far beyond duty. Torch in one hand, khukhri in the other, he stood between us and the unknown.
 
 ---
 
